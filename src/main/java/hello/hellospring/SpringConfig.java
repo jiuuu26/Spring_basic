@@ -20,3 +20,4 @@ public class SpringConfig {
         return new MemoryMemberRepository();
     }
 }
+
